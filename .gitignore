@@ -1,0 +1,8 @@
+# IDE
+.idea
+
+# Virtualenv
+venv
+
+# Tests
+test*.xml
